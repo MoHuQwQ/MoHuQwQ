@@ -1,4 +1,4 @@
-# Hi there, I'm MoHuQwQ! 👋
+# Hi there, I'm MoHuQwQ! 来自致远星的超级机器人型狐狐！ 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/MoHuQwQ?style=social)](https://github.com/MoHuQwQ?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=MoHuQwQ)](https://github.com/MoHuQwQ)
@@ -37,10 +37,8 @@
 
 | 仓库名 | 说明 | 🌟 Stars | 🍴 Forks | 🕒 最近更新 | 📦 大小 |
 |--------|------|:-------:|:--------:|:----------:|:-------:|
-| [Brilliance](https://github.com/MoHuQwQ/Brilliance) | 简要说明 | ![Stars](https://img.shields.io/github/stars/MoHuQwQ/Brilliance?style=social) | ![Forks](https://img.shields.io/github/forks/MoHuQwQ/Brilliance?style=social) | ![last commit](https://img.shields.io/github/last-commit/MoHuQwQ/Brilliance) | ![size](https://img.shields.io/github/repo-size/MoHuQwQ/Brilliance) |
+| [Brilliance](https://github.com/MoHuQwQ/Brilliance) | mindustry MOD | ![Stars](https://img.shields.io/github/stars/MoHuQwQ/Brilliance?style=social) | ![Forks](https://img.shields.io/github/forks/MoHuQwQ/Brilliance?style=social) | ![last commit](https://img.shields.io/github/last-commit/MoHuQwQ/Brilliance) | ![size](https://img.shields.io/github/repo-size/MoHuQwQ/Brilliance) |
 | ...    | ...  | ...     | ...      | ...        | ...     |
-
-> 你可以把上面表格中的“仓库1、仓库2”换成你想高亮的项目名。
 
 ---
 
@@ -54,8 +52,8 @@
 
 ## 🔗 社交&联系
 
-- [个人博客/主页](你的个人链接)
-- [Email](mailto:你的邮箱)
+- [个人博客/主页](https://space.bilibili.com/335712582?spm_id_from=333.1007.0.0)
+- [Email](mailto:MoHuQwQ@outlook.com)
 - [其它社交链接]
 
 ---
