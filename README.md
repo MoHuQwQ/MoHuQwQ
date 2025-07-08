@@ -52,7 +52,7 @@
 
 ## 🔗 社交&联系
 
-- [个人博客/主页](https://space.bilibili.com/335712582?spm_id_from=333.1007.0.0)
+- [狐狐的哔哩哔哩主页](https://space.bilibili.com/335712582?spm_id_from=333.1007.0.0)
 - [Email](mailto:MoHuQwQ@outlook.com)
 
 ---
