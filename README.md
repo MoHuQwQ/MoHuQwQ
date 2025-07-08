@@ -37,8 +37,7 @@
 
 | 仓库名 | 说明 | 🌟 Stars | 🍴 Forks | 🕒 最近更新 | 📦 大小 |
 |--------|------|:-------:|:--------:|:----------:|:-------:|
-| [仓库1](https://github.com/MoHuQwQ/Brilliance) | 简要说明 | ![Stars](https://img.shields.io/github/stars/MoHuQwQ/仓库1?style=social) | ![Forks](https://img.shields.io/github/forks/MoHuQwQ/仓库1?style=social) | ![last commit](https://img.shields.io/github/last-commit/MoHuQwQ/仓库1) | ![size](https://img.shields.io/github/repo-size/MoHuQwQ/仓库1) |
-| [仓库2](https://github.com/MoHuQwQ/仓库2) | 简要说明 | ![Stars](https://img.shields.io/github/stars/MoHuQwQ/仓库2?style=social) | ![Forks](https://img.shields.io/github/forks/MoHuQwQ/仓库2?style=social) | ![last commit](https://img.shields.io/github/last-commit/MoHuQwQ/仓库2) | ![size](https://img.shields.io/github/repo-size/MoHuQwQ/仓库2) |
+| [Brilliance](https://github.com/MoHuQwQ/Brilliance) | 简要说明 | ![Stars](https://img.shields.io/github/stars/MoHuQwQ/仓库1?style=social) | ![Forks](https://img.shields.io/github/forks/MoHuQwQ/仓库1?style=social) | ![last commit](https://img.shields.io/github/last-commit/MoHuQwQ/仓库1) | ![size](https://img.shields.io/github/repo-size/MoHuQwQ/仓库1) |
 | ...    | ...  | ...     | ...      | ...        | ...     |
 
 > 你可以把上面表格中的“仓库1、仓库2”换成你想高亮的项目名。
